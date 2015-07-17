@@ -9,6 +9,13 @@ import javax.swing.JOptionPane;
 import javax.swing.JScrollPane;
 import javax.swing.JTextArea;
 
+/**
+ * Reverses a string, particularly designed for music lyrics.
+ *
+ * @author Brian McVeigh
+ *
+ */
+
 public class Backmask extends JFrame {
 	private static final long serialVersionUID = 1L;
 	private JTextArea input;

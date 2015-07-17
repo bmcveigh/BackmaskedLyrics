@@ -1,3 +1,9 @@
+/**
+ * Reverses a string, particularly designed for music lyrics.
+ *
+ * @author Brian McVeigh
+ *
+ */
 
 public class BackmaskedApp {
 
